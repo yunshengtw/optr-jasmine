@@ -1,0 +1,14 @@
+# generated files
+*.o
+*.d
+*.elf
+*.bin
+*.swp
+*.so
+*.out
+*.err
+
+installer/installer
+installer/bad_blocks
+build_gnu/list.txt
+vst/vst-jasmine
